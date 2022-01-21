@@ -1,6 +1,6 @@
 ### Welcome to my Github!
 
-## I'm a 4th year compsci student currently working on portfolio projects and a portfolio website, as well as looking for some open source projects to contribute to.
+#### I'm a 4th year compsci student currently working on portfolio projects and a portfolio website, as well as looking for some open source projects to contribute to.
 
 <!--
 **joshedge/joshedge** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
